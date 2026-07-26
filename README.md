@@ -8,17 +8,42 @@ AI Engineer • Machine Learning • Deep Learning • LLM Engineering • Open 
 Building production-ready AI applications with Python, Machine Learning, Deep Learning, and Large Language Models.
 </p>
 
+<p align="center">
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SAKSHI-DOT693">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/YOUR_USERNAME/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.kaggle.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+</p>
+
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 🎓 B.Voc Software Development Student
 - 🤖 Aspiring AI Engineer
-- 🧠 Passionate about Machine Learning, Deep Learning & LLM Engineering
-- 🔬 Building real-world AI applications using Python
-- 🌱 Currently learning Transformers, RAG, AI Agents & MLOps
-- 💻 Exploring scalable AI systems and production-ready architectures
-- 🌍 Interested in Open Source and collaborative software development
+- 🧠 Building production-ready AI applications
+- 💡 Interested in Machine Learning, Deep Learning & LLM Engineering
+- 🔬 Currently developing AI-powered software using Python
+- 🌱 Learning Transformers, RAG, AI Agents and MLOps
+- 🌍 Open Source Contributor
+- 📚 Passionate about solving real-world problems with AI
 
 ---
 
@@ -31,8 +56,8 @@ Building production-ready AI applications with Python, Machine Learning, Deep Le
 - Retrieval-Augmented Generation (RAG)
 - NLP
 - AI Chatbots
-- Data Analysis
 - Model Evaluation
+- Data Analysis
 - Experiment Tracking
 
 ---
@@ -41,54 +66,47 @@ Building production-ready AI applications with Python, Machine Learning, Deep Le
 
 ### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql"/>
+
+</p>
 
 ### AI / Machine Learning
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD43B?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
+</p>
+
+- Scikit-Learn
+- Transformers
+- Hugging Face
+- LangChain
+- OpenAI API
+- RAG
+- FAISS
 
 ### Data Science
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge)
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=opencv"/>
 
-### Web Development
+</p>
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+- NumPy
+- Pandas
+- Matplotlib
 
----
+### Backend
 
-### Database
+<p>
 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+<img src="https://skillicons.dev/icons?i=flask,nodejs,react,sqlite,git,vscode"/>
 
----
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+</p>
 
 ---
 
@@ -96,54 +114,58 @@ Building production-ready AI applications with Python, Machine Learning, Deep Le
 
 ## 🧪 ExperimentIQ
 
-AI-Powered Machine Learning Experiment Advisor
+### AI-Powered Machine Learning Experiment Advisor
 
-### Highlights
+### Features
 
-- Automated Data Cleaning
-- ML Experiment Tracking
-- Model Comparison Dashboard
-- AI Recommendations
-- Explainable AI
-- Confidence Score
-- PDF Report Generation
-- SQLite Database
-- Streamlit Dashboard
-- LLM Integration
+- ✅ Automated Data Cleaning
+- ✅ ML Experiment Tracking
+- ✅ Model Comparison Dashboard
+- ✅ Explainable AI
+- ✅ Confidence Score
+- ✅ AI Recommendations
+- ✅ PDF Report Generation
+- ✅ SQLite Database
+- ✅ Streamlit Dashboard
+- ✅ LLM Integration
+
+**Tech Stack**
+
+Python • Streamlit • SQLite • Pandas • Gemini API
 
 ---
 
 ## 📄 AI Resume Analyzer
 
-Intelligent resume analysis system using NLP and Machine Learning.
+AI-powered resume analysis platform using NLP and Machine Learning.
 
 ### Features
 
 - Resume Parsing
 - Skill Extraction
 - Resume Scoring
-- Improvement Suggestions
+- Resume Improvement Suggestions
 
 ---
 
 ## 🤖 AI Chatbot
 
-LLM-powered conversational AI application.
+Conversational AI powered by Large Language Models.
 
 ### Features
 
-- LangChain Integration
+- LangChain
 - Prompt Engineering
-- Context-Aware Responses
-- OpenAI API Integration
+- OpenAI / Gemini
+- Context-aware Responses
 
 ---
 
 # 🌍 Open Source
 
-Currently exploring and contributing to:
+Currently contributing and learning from
 
-- Mesa
+- Mesa Framework
 - Jupyter Ecosystem
 - Python Open Source Projects
 
@@ -153,11 +175,11 @@ Currently exploring and contributing to:
 
 - Transformers
 - Attention Mechanism
-- Retrieval-Augmented Generation (RAG)
+- RAG Systems
 - AI Agents
-- Model Fine-Tuning
-- MLOps
+- Model Fine-tuning
 - LLM Evaluation
+- MLOps
 
 ---
 
@@ -165,15 +187,17 @@ Currently exploring and contributing to:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SAKSHI-DOT693&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAKSHI-DOT693&layout=compact&theme=tokyonight"/>
 
 </p>
 
+---
+
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=SAKSHI-DOT693&theme=tokyonight"/>
 
 </p>
 
@@ -181,25 +205,47 @@ Currently exploring and contributing to:
 
 # 📊 Contribution Graph
 
-[![Sakshi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SAKSHI-DOT693&theme=tokyo-night"/>
+
+</p>
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 Goals for 2026
 
 - Build production-ready AI applications
 - Strengthen LLM Engineering skills
-- Contribute to open-source AI projects
-- Learn MLOps & Model Deployment
+- Contribute to major Open Source AI projects
+- Learn MLOps & AI Deployment
 - Publish technical AI content
 - Prepare for AI Engineering opportunities
 
 ---
 
-## 🤝 Connect With Me
+# 🤝 Connect With Me
 
-- 💼 LinkedIn
-- 📧 Email
-- 🌐 Portfolio (Coming Soon)
+<p>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/SAKSHI-DOT693">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
 
 ⭐ Thanks for visiting my profile!
+
+</p>
