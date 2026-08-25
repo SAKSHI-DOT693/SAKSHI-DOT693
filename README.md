@@ -26,7 +26,7 @@ Building production-ready AI applications with Python, Machine Learning, Deep Le
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.kaggle.com/YOUR_USERNAME">
+<a href="https://www.kaggle.com/sakshithigale">
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
